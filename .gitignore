@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.xml
+*.pyc
+*.sqlite3
+*.pyc
+.DS_Store
+.idea*
+
